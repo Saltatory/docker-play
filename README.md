@@ -2,7 +2,7 @@
 
 ![Play Framework](images/icon.png)
 
-Create Docker containers for the Typesafe Play framework.
+Create Docker containers for the Typesafe Play framework. Images based on Ubuntu 14.04.
 
 # Containers
 
@@ -39,6 +39,7 @@ CONTAINER ID        IMAGE                 COMMAND                CREATED        
 
 ## Versions (required or using)
 
+* Ubuntu 14.04
 * Docker (1.7.0)
 * Typesafe (1.3.5)
 * Oracle JDK (8)
